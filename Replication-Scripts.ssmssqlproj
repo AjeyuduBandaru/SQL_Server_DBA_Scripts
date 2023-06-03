@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Replication-Scripts">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Blocking in Distributor - check waits.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Blocking in Distributor - check waits.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Distribution Agent Performance.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Distribution Agent Performance.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Distribution database current activites.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Distribution database current activites.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Distributor tables sizes.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Distributor tables sizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find the article via transaction number.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Find the article via transaction number.sql</FullPath>
+        </FileNode>
+        <FileNode Name="How large are Replication related tables.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>How large are Replication related tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Latency between Distribution and Subscriber.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Latency between Distribution and Subscriber.sql</FullPath>
+        </FileNode>
+        <FileNode Name="List last commands applied.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>List last commands applied.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Log Reader Agent configuration.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Log Reader Agent configuration.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Log Reader Agent Performance.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Log Reader Agent Performance.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Number of Commands replicated for an Article.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Number of Commands replicated for an Article.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Number of Not Replicated Commands.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Number of Not Replicated Commands.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Number of Not Replicated Transactions.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Number of Not Replicated Transactions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Oldest transaction in the Distribution DB.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Oldest transaction in the Distribution DB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Open transactions.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Open transactions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Publication configuration.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Publication configuration.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Replication Errors.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Replication Errors.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Replication History.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Replication History.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Replication Performance counters.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Replication Performance counters.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Replication Stats.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Replication Stats.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Show published articles.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Show published articles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Snapshot History.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Snapshot History.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
